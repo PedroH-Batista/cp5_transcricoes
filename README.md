@@ -1,6 +1,6 @@
 # Checkpoint 5 – Pré-processador de Transcrições TOTVS com Programação Dinâmica
 
-Disciplina: **Dynamic Programming / Data Science and Statistical Computing** (FIAP, Engenharia de Software, 2º ano)
+Disciplina: **Dynamic Programming** (FIAP, Engenharia de Software, 2º ano)
 
 | Integrante | RM |
 |---|---|
